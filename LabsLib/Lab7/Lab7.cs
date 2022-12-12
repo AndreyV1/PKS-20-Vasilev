@@ -7,7 +7,7 @@ using System.Runtime.Serialization.Json;
 
 namespace AllLabsProject
 {
-    internal class Lab7 : ILabs
+    internal class Lab7 : AllLabsProject.ILabs
     {
         public void Demo()
         {

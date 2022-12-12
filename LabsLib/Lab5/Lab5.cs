@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AllLabsProject
 {
-    internal class Lab5 : ILabs
+    internal class Lab5 : AllLabsProject.ILabs
     {
         public void Demo()
         {
